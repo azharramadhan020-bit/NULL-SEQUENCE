@@ -1,10 +1,10 @@
-name: sequence_app
-description: System: Reason MUST YOU - Sequence reality distortion app
-publish_to: "none"
+name: system_reason_must_you
+description: "System: Reason MUST YOU - Sequence reality distortion app"
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.17.0 <4.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
